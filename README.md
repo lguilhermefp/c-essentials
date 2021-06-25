@@ -1,3 +1,3 @@
-#C training
+#C essentials
 
-this repository contains programs made to practice the C language.
+Algorithms that make use of the most important C features.
